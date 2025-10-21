@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# Josilyn's Prototype Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -6,7 +6,6 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-_See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
 This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
@@ -16,7 +15,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Josilyn Bouffard](https://github.com/jlbouffard),  _Acknowledge primary content authors here_
 
 ### Contributors
 
@@ -57,9 +56,9 @@ have no output at first, until you execute them by pressing
 a live Jupyter notebook are described in [Getting Started with
 Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter).
 
-Note, not all Cookbook chapters are executable. If you do not see
+_Note, not all Cookbook chapters are executable. If you do not see
 the rocket ship icon, such as on this page, you are not viewing an
-executable book chapter.
+executable book chapter._
 
 
 ### Running on Your Own Machine
