@@ -7,15 +7,15 @@
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers working with ERA5 data in Python.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+This notebook will be useful in analyzing projections for precipitation in India. This is useful as my research is on lakes in India. At the end of the cookbook I'll be able to compare data from the Paleolab to this ERA5 data. I will also have learned how to plot and analyze data for ERA5 data within Python.
 
 ## Authors
 
-[Josilyn Bouffard](https://github.com/jlbouffard),  _Acknowledge primary content authors here_
+[Josilyn Bouffard](https://github.com/jlbouffard)
 
 ### Contributors
 
@@ -25,13 +25,13 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is broken up into two main sections- "Plotting ERA 5 data" and "Comparing ERA5 data with lab data"
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Analyzing and Plotting ERA 5 data
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Comparing ERA 5 data with lab produced data
 
 (Add content for this section, e.g., "Example workflows include ... ")
 

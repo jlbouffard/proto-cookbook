@@ -5,3 +5,7 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - pandas
+  - geopandas
+  - metpy
+  - xarray
