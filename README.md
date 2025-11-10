@@ -11,7 +11,7 @@ This Project Pythia Cookbook covers working with ERA5 data in Python.
 
 ## Motivation
 
-This notebook will be useful in analyzing reanalysis data for hydrologic variables in India. This is useful as my research is on lakes in India. At the end of the cookbook I'll be able to compare data specifically from 1 lake in India to the processes surrounding it, all using ERA5 data. I will also have learned how to plot and analyze data for ERA5 data within Python.
+This notebook will be useful in analyzing reanalysis data for hydrologic variables in India. This is useful as my research is on lakes in India. At the end of the cookbook I'll be able to compare data specifically from one lake in India to the processes surrounding it, all using ERA5 data. I will also have learned how to plot and analyze data for ERA5 data within Python.
 
 ## Authors
 

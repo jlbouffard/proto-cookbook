@@ -3,4 +3,11 @@ tags:
   domains:
     - sampledomain
   packages:
-    - samplepackage
+  - jupyterlab
+  - mystmd
+  - jupyterlab-myst
+  - metpy
+  - xarray
+  - cartopy
+  - numpy
+  - matplotlib
