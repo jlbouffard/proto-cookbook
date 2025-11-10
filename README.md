@@ -11,30 +11,24 @@ This Project Pythia Cookbook covers working with ERA5 data in Python.
 
 ## Motivation
 
-This notebook will be useful in analyzing projections for precipitation in India. This is useful as my research is on lakes in India. At the end of the cookbook I'll be able to compare data from the Paleolab to this ERA5 data. I will also have learned how to plot and analyze data for ERA5 data within Python.
+This notebook will be useful in analyzing reanalysis data for hydrologic variables in India. This is useful as my research is on lakes in India. At the end of the cookbook I'll be able to compare data specifically from 1 lake in India to the processes surrounding it, all using ERA5 data. I will also have learned how to plot and analyze data for ERA5 data within Python.
 
 ## Authors
 
 [Josilyn Bouffard](https://github.com/jlbouffard)
-
-### Contributors
-
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
-</a>
-
+____________________________________________________________________
 ## Structure
 
-This cookbook is broken up into two main sections- "Plotting ERA 5 data" and "Comparing ERA5 data with lab data"
+This cookbook is broken up into two main sections; "Plotting ERA 5 data: Hydrologic processes" and "Plotting ERA5 data: Lakes". 
 
-### Analyzing and Plotting ERA 5 data
+#### Plotting ERA 5 data: Hydrologic processes
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+The hydrologic processes included in the first part of this cookbook are preciptation, evaporation and runoff. These were chosen as they are key to the makeup of the environment. After visualizing spacially where these occur most heavily and where they do not, we can look into how these impact lakes and how the lakes react to changes in these factors. This we do in part two of the cookbook.
 
-### Comparing ERA 5 data with lab produced data
+### Plotting ERA5 data: Lakes
 
-(Add content for this section, e.g., "Example workflows include ... ")
-
+In the second part of the notebook we focus on lake characteristics that relate to hydrologic processes. We will look at these trends to further understand how one specific lake, Loktak Lake, responds to changes in precipitation and evaporation as well as runoff.
+_____________________________________________________________________
 ## Running the Notebooks
 
 You can either run the notebook using [Binder](https://binder.projectpythia.org/) or on your local machine.

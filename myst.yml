@@ -3,8 +3,8 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Prototype Project Repo
-  github: https://github.com/projectpythia/cookbook-template
+  title: Prototype Cookbook Project
+  github: https://github.com/jlbouffard/proto-cookbook
   authors:
     - name: Josilyn Bouffard
   copyright: '2025'
@@ -13,12 +13,11 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
+    - title: Notebooks
       children:
+        - file: notebooks/notebook1.ipynb
+        - file: notebooks/notebook2.ipynb  
         - file: notebooks/notebook-template.ipynb
-    - title: Xarray Notebook
-      children:
-        - file: notebooks/xarray.ipynb      
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
